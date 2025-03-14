@@ -1,6 +1,4 @@
-#### Project 5 #### 
-### ENPM 661 ####  
-### Planning for Autonomous Robotics ###
+ ### Planning for Autonomous Robotics ###
 
 
 Author: Pritom Raymond Leo Gomes(pgomes10@umd.edu),  Joseph Thomas (joseph10@umd.edu)and Amogh Wyawahare (wamogh@umd.edu) ---> University of Maryland Masters Robotics pgomes10@umd.edu
